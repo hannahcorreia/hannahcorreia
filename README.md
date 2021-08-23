@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align='center'>
+    <!--<a href="https://scholar.google.com/citations?user=kembVusAAAAJ&hl=en"><img src="http://img.shields.io/badge/-Google Scholar-2088FF?style=flat&logo=google-scholar&logoColor=ffffff" alt="GoogleScholar">
+    </a>-->
+    <a href="https://hannahcorreia.github.io/"><img src="https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fhannahcorreia.github.io%2F" alt="Website">
+    </a>
+    <a href="http://researchgate.net/profile/Hannah-Correia"><img src="http://img.shields.io/badge/-ResearchGate-2088FF?style=flat&logo=researchgate&logoColor=ffffff" alt="ResearchGate">
+    </a>
+    <a href="https://orcid.org/0000-0003-3476-3674"><img src="http://img.shields.io/badge/-ORCID-2088FF?style=flat&logo=ORCID&logoColor=ffffff" alt="ORCID">
+    </a>
+</p>
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: Lived in the Arctic Circle for 6 months (listen to the White Vault)
