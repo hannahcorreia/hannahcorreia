@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 align='center'>  Hi there 👋 </h3>
 
 <p align='center'>
     I am a Harvard Data Science Initiative Postdoctoral Fellow working with Francesca Dominici and Tyler VanderWeele at the Harvard TH Chan School of Public Health. I earned a PhD in Biology and MS in Statistics from Auburn University.
@@ -39,4 +39,8 @@ Here are some ideas to get you started:
 
 ## Peer-Reviewed Journal Articles with Code
 
+Correia, H. E. (2018) Spatiotemporally explicit model averaging for forecasting of Alaskan groundfish catch. Ecology & Evolution. 8(24):12308–12321.
 
+Dobson, F. S., Abebe, A., Correia, H. E., Kasumo, C., & Zinner, B. (2018) Multiple paternity and number of offspring in mammals. Proceedings of the Royal Society B: Biological Sciences. 285(1891).
+
+Abebe, A., Correia, H. E., & Dobson, F. S. (2019) Estimating a key parameter of mammalian mating systems: the chance of siring success for a mated male. BioEssays. 41(12).
