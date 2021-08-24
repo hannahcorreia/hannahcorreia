@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 ## Peer-Reviewed Journal Articles with Code
 
 Abebe, A., Correia, H. E., & Dobson, F. S. (2019) Estimating a key parameter of mammalian mating systems: the chance of siring success for a mated male. BioEssays. 41(12). [![DOI:10.1002/bies.202000247](http://img.shields.io/badge/DOI-10.1002/bies.202000247-2088FF.svg)](https://doi.org/10.1002/bies.202000247)
-> :Buttons
-> > :Button label=View code on GitHub, url=https://github.com/hannahcorreia/multiple-paternity
+:Buttons
+:Button label=View code on GitHub, url=https://github.com/hannahcorreia/multiple-paternity
 <p align='left'>
     <a href="https://github.com/hannahcorreia/multiple-paternity"><img src="https://img.shields.io/github/last-commit/hannahcorreia/multiple-paternity" alt="hannahcorreia/multiple-paternity"></a>
 </p>
