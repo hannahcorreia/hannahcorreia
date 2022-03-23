@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ## Peer-Reviewed Journal Articles with Code
 
-Correia, H. E., Tveraa, T., Stien, A., & Yoccoz, N.J. (2022, Forthcoming) Nonlinear spatial and temporal decomposition provides insight for climate change effects on sub-Arctic herbivore populations. Oecologia. [![DOI:10.1007/s00442-022-05150-7](http://img.shields.io/badge/DOI-10.1007/s00442-022-05150-7.svg)](https://doi.org/10.1007/s00442-022-05150-7)
+Correia, H. E., Tveraa, T., Stien, A., & Yoccoz, N.J. (2022, Forthcoming) Nonlinear spatial and temporal decomposition provides insight for climate change effects on sub-Arctic herbivore populations. Oecologia. [![DOI:10.1007/s00442-022-05150-7](https://img.shields.io/badge/DOI-10.1007%2Fs00442--022--05150--7-2088FF.svg)](https://doi.org/10.1007/s00442-022-05150-7)
 [![hannahcorreia - reindeer-decomp](https://img.shields.io/static/v1?label=hannahcorreia&message=reindeer-decomp&color=2088FF&logo=github)](https://github.com/hannahcorreia/reindeer-decomp)
 
 Correia, H. E., Abebe, A., & Dobson, F. S. (2021) Multiple paternity and the number of offspring: A model reveals two major groups of species. BioEssays. 43(4). [![DOI:10.1002/bies.202000247](http://img.shields.io/badge/DOI-10.1002/bies.202000247-2088FF.svg)](https://doi.org/10.1002/bies.202000247)
