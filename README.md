@@ -1,7 +1,7 @@
 <h3 align='center'>  Hi there 👋 </h3>
 
 <p align='center'>
-    I am a Harvard Data Science Initiative Postdoctoral Fellow housed at the Harvard TH Chan School of Public Health. I earned a PhD in Biology and MS in Statistics from Auburn University.
+    I am a Postdoctoral Fellow at the Johns Hopkins Whiting School of Engineering working with Dr. Paul Ferraro. From 2019 to 2022, I was a Harvard Data Science Initiative Postdoctoral Fellow housed at the Harvard TH Chan School of Public Health. I earned a PhD in Biology and MS in Statistics from Auburn University.
     My research interests broadly cover the area of statistical ecology, particularly developing new techniques to quantify climate change effects on populations and identifying causation in ecological data. I also aim to improve statistical methods for high-dimensional and spatio-temporal data.
 </p> 
 
