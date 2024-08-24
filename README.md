@@ -21,14 +21,10 @@ Here are some ideas to get you started:
 -->
 
 <p align='center'>
-    <!--<a href="https://scholar.google.com/citations?user=kembVusAAAAJ&hl=en"><img src="http://img.shields.io/badge/-Google Scholar-2088FF?style=flat&logo=google-scholar&logoColor=ffffff" alt="GoogleScholar">
-    </a>-->
-    <a href="https://hannahcorreia.github.io/"><img src="https://img.shields.io/website?labelColor=grey&down_color=red&down_message=down&label=hannahcorreia.github.io&logo=Website&logoColor=2088FF&up_color=green&up_message=up&url=https%3A%2F%2Fhannahcorreia.github.io" alt="Website">
-    </a>
-    <a href="http://researchgate.net/profile/Hannah-Correia"><img src="http://img.shields.io/badge/-ResearchGate-grey?style=flat&logo=researchgate&logoColor=ffffff" alt="ResearchGate">
-    </a>
-    <a href="https://orcid.org/0000-0003-3476-3674"><img src="http://img.shields.io/badge/-ORCID-grey?style=flat&logo=ORCID&logoColor=ffffff" alt="ORCID">
-    </a>
+    <a href="https://hannahcorreia.github.io/"><img src="https://img.shields.io/website?labelColor=grey&down_color=red&down_message=down&label=hannahcorreia.github.io&logo=Website&logoColor=2088FF&up_color=green&up_message=up&url=https%3A%2F%2Fhannahcorreia.github.io" alt="Website"></a>
+    <a href="https://scholar.google.com/citations?user=TLSV788AAAAJ&hl=en"><img src="http://img.shields.io/badge/-Google Scholar-grey?style=flat&logo=google-scholar&logoColor=ffffff" alt="GoogleScholar"></a>
+    <a href="http://researchgate.net/profile/Hannah-Correia"><img src="http://img.shields.io/badge/-ResearchGate-grey?style=flat&logo=researchgate&logoColor=ffffff" alt="ResearchGate"></a>
+    <a href="https://orcid.org/0000-0003-3476-3674"><img src="http://img.shields.io/badge/-ORCID-grey?style=flat&logo=ORCID&logoColor=ffffff" alt="ORCID"></a>
 </p>
 
 - 🔭 I’m currently working on effects of causal inference methods for ecology, interpretable ML methods for understanding HIV/AIDS-related stigma dynamics in Kenya, and modeling multiple paternity in animals.
@@ -57,7 +53,7 @@ Abebe, A., Correia, H. E., & Dobson, F. S. (2019) Estimating a key parameter of 
 [![hannahcorreia - multiple-paternity](https://img.shields.io/static/v1?label=hannahcorreia&message=multiple-paternity&color=darkcyan&logo=github)](https://github.com/hannahcorreia/multiple-paternity)
     
 Dobson, F. S., Abebe, A., Correia, H. E., Kasumo, C., & Zinner, B. (2018) Multiple paternity and number of offspring in mammals. Proceedings of the Royal Society B: Biological Sciences. 285(1891).  
-[![DOI:10.1098/rspb.2018.2042](http://img.shields.io/badge/DOI-10.1098/rspb.2018.2042-blue.svg)](https://doi.org/10.1098/rspb.2018.2042) [![DOI:10.5061/dryad.d6kj502](https://img.shields.io/badge/Dryad-DOI%3A10.5061%2Fdryad.d6kj502-whitesmoke)](https://dx.doi.org/10.5061/dryad.d6kj502) [![hannahcorreia - multiple-paternity](https://img.shields.io/static/v1?label=hannahcorreia&message=multiple-paternity&color=darkcyan&logo=github)](https://github.com/hannahcorreia/multiple-paternity)
+[![DOI:10.1098/rspb.2018.2042](http://img.shields.io/badge/DOI-10.1098/rspb.2018.2042-blue.svg)](https://doi.org/10.1098/rspb.2018.2042) [![hannahcorreia - multiple-paternity](https://img.shields.io/static/v1?label=hannahcorreia&message=multiple-paternity&color=darkcyan&logo=github)](https://github.com/hannahcorreia/multiple-paternity) [![DOI:10.5061/dryad.d6kj502](https://img.shields.io/badge/Dryad-DOI%3A10.5061%2Fdryad.d6kj502-whitesmoke)](https://dx.doi.org/10.5061/dryad.d6kj502)
 
 Correia, H. E. (2018) Spatiotemporally explicit model averaging for forecasting of Alaskan groundfish catch. Ecology & Evolution. 8(24):12308–12321.  
 [![DOI:10.1002/ece3.4488](http://img.shields.io/badge/DOI-10.1002/ece3.4488-blue.svg)](https://doi.org/10.1002/ece3.4488)
