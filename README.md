@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align='center'>
     <a href="https://hannahcorreia.github.io/"><img src="https://img.shields.io/website?labelColor=grey&down_color=red&down_message=down&label=hannahcorreia.github.io&logo=Website&logoColor=2088FF&up_color=green&up_message=up&url=https%3A%2F%2Fhannahcorreia.github.io" alt="Website"></a>
-    <a href="https://scholar.google.com/citations?user=TLSV788AAAAJ&hl=en"><img src="http://img.shields.io/badge/-Google Scholar-grey?style=flat&logo=google-scholar&logoColor=royalblue" alt="GoogleScholar"></a>
+    <a href="https://scholar.google.com/citations?user=TLSV788AAAAJ&hl=en"><img src="http://img.shields.io/badge/-Google Scholar-grey?style=flat&logo=google-scholar&logoColor=dodgerblue" alt="GoogleScholar"></a>
     <a href="http://researchgate.net/profile/Hannah-Correia"><img src="http://img.shields.io/badge/-ResearchGate-grey?style=flat&logo=researchgate&logoColor=mediumturquoise" alt="ResearchGate"></a>
     <a href="https://orcid.org/0000-0003-3476-3674"><img src="http://img.shields.io/badge/-ORCID-grey?style=flat&logo=ORCID&logoColor=green" alt="ORCID"></a>
 </p>
