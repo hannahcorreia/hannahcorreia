@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 ## Peer-Reviewed Journal Articles with Code
 
 Dobson, F. S., Correia, H. E., Abebe, A. (2024) How much multiple paternity should we expect? A study of birds and contrast with mammals. Ecology & Evolution. 14(e11054).  
-[![DOI:10.1002/ece3.11054](https://img.shields.io/badge/DOI-10.1002%2Fece3.11054-darkcyan.svg)](https://doi.org/10.1002/ece3.11054)
-[![hannahcorreia - phylo-multiple-paternity](https://img.shields.io/static/v1?label=hannahcorreia&message=phylo-multiple-paternity&color=blue&logo=github)](https://github.com/hannahcorreia/phylo-multiple-paternity)
+[![DOI:10.1002/ece3.11054](https://img.shields.io/badge/DOI-10.1002%2Fece3.11054-blue.svg)](https://doi.org/10.1002/ece3.11054)
+[![hannahcorreia - phylo-multiple-paternity](https://img.shields.io/static/v1?label=hannahcorreia&message=phylo-multiple-paternity&color=darkcyan&logo=github)](https://github.com/hannahcorreia/phylo-multiple-paternity)
 
 Correia, H. E., Tveraa, T., Stien, A., & Yoccoz, N.J. (2022) Nonlinear spatial and temporal decomposition provides insight for climate change effects on sub-Arctic herbivore populations. Oecologia.  
 [![DOI:10.1007/s00442-022-05150-7](https://img.shields.io/badge/DOI-10.1007%2Fs00442--022--05150--7-2088FF.svg)](https://doi.org/10.1007/s00442-022-05150-7)
